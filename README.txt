@@ -1,4 +1,4 @@
-How to compile and run the simulator on zeus.cs.txstate.edu
+How to compile and run the simulator on Linux with g++
 
 Compile:
 	g++ sim.cpp -o sim
